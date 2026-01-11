@@ -1,41 +1,31 @@
-# 🎒 Welcome, I'm Dayana Justina Rodriguez Torres
+# ¡Hola! Soy Dayana Justina Rodriguez Torres
 
-![Role](https://img.shields.io/badge/Developer-Creator-1f425f)
+## Sobre Mí
 
-## About Me
+Soy estudiante de **[Estadistica informatica]** en la **[UNALM]**. Actualmente me enfoco en desarrollar mis habilidades en **Análisis de Datos y Programación**, buscando siempre nuevas formas de usar la tecnología para resolver problemas reales.
 
-I'm a student of **[Tu Carrera]** at **[Tu Universidad]**. My current focus is on developing my skills in **Python, C#, and SQL**, and I'm constantly exploring new ways to leverage these tools to solve real-world problems. Whether it's building predictive models, working with databases, or creating applications that bring data to life, I enjoy every part of the journey 📈 🚀
-
----
-
-## 💻 Languages and Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+Me apasiona transformar datos en información valiosa y crear aplicaciones eficientes. ¡Disfruto cada parte del proceso! 
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Lenguajes y Herramientas
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📈 Mis Estadísticas en GitHub
 
 [![Estadísticas de Dayana](https://github-readme-stats.vercel.app/api?username=dyzana&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-justina-rodriguez-torres-a503362b3/)
