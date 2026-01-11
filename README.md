@@ -20,12 +20,9 @@ Me apasiona transformar datos en información valiosa y crear aplicaciones efici
 
 ---
 
-## 📈 Mis Estadísticas en GitHub
-
-[![Estadísticas de Dayana](https://github-readme-stats.vercel.app/api?username=dyzana&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-justina-rodriguez-torres-a503362b3/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](20230409@lamolina.edu.pe)
