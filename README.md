@@ -2,7 +2,7 @@
 
 ## Sobre Mí
 
-Soy estudiante de **[Estadistica informatica]** en la **[UNALM]**. Actualmente me enfoco en desarrollar mis habilidades en **Análisis de Datos y Programación**, buscando siempre nuevas formas de usar la tecnología para resolver problemas reales.
+Soy estudiante de **Estadistica informatica** en la **UNALM**. Actualmente me enfoco en desarrollar mis habilidades en **Análisis de Datos y Programación**, buscando siempre nuevas formas de usar la tecnología para resolver problemas reales.
 
 Me apasiona transformar datos en información valiosa y crear aplicaciones eficientes. ¡Disfruto cada parte del proceso! 
 
