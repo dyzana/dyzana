@@ -25,4 +25,4 @@ Me apasiona transformar datos en información valiosa y crear aplicaciones efici
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-justina-rodriguez-torres-a503362b3/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](20230409@lamolina.edu.pe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20230409@lamolina.edu.pe)
